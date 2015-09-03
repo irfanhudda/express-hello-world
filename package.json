@@ -1,0 +1,19 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "express hello world app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irfanhudda/express-hello-world.git"
+  },
+  "author": "Irfan Hudda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irfanhudda/express-hello-world/issues"
+  },
+  "homepage": "https://github.com/irfanhudda/express-hello-world#readme"
+}
